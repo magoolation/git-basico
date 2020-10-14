@@ -1,30 +1,40 @@
-1. one
-2. two
-3. three
-4. four
-5. five
-6. six
-7. seven
-8. eight
-9. nine
-10. ten
-11. eleven
-12. twelve
-13. thirteen
-14. forteen
-15. fifteen
-16. sixteen
-17. seventeen
-18. eighteen
-19. nineteen
-20. twenty
-21. twenty One
-22. twenty Two
-23. twenty Three
-24. twenty Four
-25. twenty Five
-26. twenty six
-27. twenty seven
-28. Twenty eight
-29. Twenty nine
-30. Thirty
+1- one
+2- two
+3- three
+4- four
+5- five
+6- six
+7- seven
+8- eight
+9- nine
+10- ten
+11- eleven
+12- twelve
+13- thirteen
+14- forteen
+15- fifteen
+16- sixteen
+17- seventeen
+18- eighteen
+19- nineteen
+20- twenty
+21- twenty One
+22- twenty Two
+23- twenty Three
+24- twenty Four
+25- twenty Five
+26- twenty six
+27- twenty seven
+28- Twenty eight
+29- Twenty nine
+30- Thirty
+31. thirty one
+32. thirty two
+33. thirty three
+34. thirty four
+35. thirty five
+36. thirty six
+37. thirty seven
+38. thirty eight
+39. thirty nine
+40. forty
