@@ -5,6 +5,6 @@ Java
 JavaScript
 Python
 GoLang
-TyScript
+TypeScript
 Php
 swiftch
