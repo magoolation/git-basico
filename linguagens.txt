@@ -4,3 +4,7 @@ C#
 Java
 JavaScript
 Python
+GoLang
+TypeScript
+Php
+swiftch
